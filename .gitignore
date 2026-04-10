@@ -1,0 +1,21 @@
+# --- [ASTRO-GITIGNORE: SCRIPTS] ---
+*.bat
+*.cmd
+
+# --- [OS LOGS & CACHE] ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.temp
+
+# --- [LOG & ZIP FILES] ---
+*.log
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# --- [RELEASE ASSETS HANDLER] ---
+_FOR_RELEASE_/
+**/_FOR_RELEASE_/**
